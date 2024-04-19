@@ -14,14 +14,13 @@ def scrape_page_content(url):
     # Check if the request was successful (status code 200)
     if response.status_code == 200:
         # Parse the HTML content of the page
-        soup = BeautifulSoup(response.content, 'html.parser')
-        
+        soup = BeautifulSoup(response.content, 'html.parser')        
         # Extract the title of the page
         title = soup.title.string.strip()
         
         # Extract all links on the page
         links = [link.get('href') for link in soup.find_all('a')]
-        
+        links = preprocess_links(links)
         # Extract the text content of the page
         page_content = soup.get_text()
         
@@ -31,6 +30,20 @@ def scrape_page_content(url):
         print(f"Failed to fetch page content. Status code: {response.status_code}")
         return None, None, None
 
+
+def preprocess_links(links):
+    preprocessed_links = []
+    for link in links:
+        if(link is not None):
+            # Removing unwanted characters and formatting using regular expressions
+            preprocessed_link = re.sub(r'[^a-zA-Z\s]', ' ', link)
+            # Replacing multiple whitespaces with a single whitespace
+            preprocessed_link = re.sub(r'\s+', ' ', preprocessed_link)
+            # Removing any leading or trailing whitespace
+            preprocessed_link = preprocessed_link.strip()
+            preprocessed_link = ' '.join(word for word in preprocessed_link.split() if len(word) > 1)
+            preprocessed_links.append(preprocessed_link)
+    return preprocessed_links
 
 def clean_text(raw_text):
     # Remove excess newlines and whitespace
@@ -67,12 +80,11 @@ def save_to_file(content, filename, title=None, links=None):
     if title and links and content:
         # Save all data in a single file
         with open(filename, 'w', encoding='utf-8') as file:
-            file.write("Title:\n{}\n\n".format(title))
-            file.write("Links:\n")
+            file.write("{}\n".format(title))
             for link in links:
                 if link is not None:
                     file.write(link + ",")
-            file.write("\nContent:\n{}\n".format(content))
+            file.write("\n{}\n".format(content))
     else:
         with open(filename, 'w', encoding='utf-8') as file:
             file.write(content)
@@ -93,7 +105,7 @@ def read_links_from_file(filename):
 filename = "food-links.txt"  # Change to the name of your text file containing links
 link_list = read_links_from_file(filename)
 print(link_list)
-i = 7
+i = 1
 for link in link_list:
 # Example usage:
     title, links, content = scrape_page_content(link)
