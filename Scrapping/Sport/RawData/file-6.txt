@@ -1,0 +1,667 @@
+
+
+
+
+Sports science - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1Origins of exercise physiology
+
+
+
+
+
+
+
+2Study of sports science
+
+
+
+
+
+
+
+3Academic journals in sports science
+
+
+
+
+
+
+
+4Reproducibility
+
+
+
+
+
+
+
+5See also
+
+
+
+
+
+
+
+6References
+
+
+
+
+
+
+
+7External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Sports science
+
+
+
+17 languages
+
+
+
+
+العربيةDeutschΕλληνικάFrançais한국어Bahasa IndonesiaItalianoBahasa MelayuNederlands日本語PortuguêsShqipไทยTürkçeTiếng Việt粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia Commons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+
+Interdisciplinary study of physical activity
+Sports science is a discipline that studies how the healthy human body works during exercise, and how sports and physical activity promote health and performance from cellular to whole body perspectives. The study of sports science traditionally incorporates areas of physiology (exercise physiology), psychology (sport psychology), anatomy, biomechanics (sports biomechanics), biochemistry, and kinesiology. 
+
+Institute of Sports Science, Japan
+Sport scientists and performance consultants are growing in demand and employment numbers, with the ever-increasing focus within the sporting world on achieving the best results possible.[1] Through the scientific study of sports, researchers have developed a greater understanding of how the human body reacts to exercise, training, different environments, and many other stimuli.
+
+
+Origins of exercise physiology[edit]
+Main article: Exercise physiology
+Sports science can trace its origins back to Ancient Greece. The noted ancient Greek physician Galen (131–201) wrote 87 detailed essays about improving health (proper nutrition), aerobic fitness, and strengthening muscles.[2][3]
+
+Galen
+New ideas upon the working and functioning of the human body emerged during the Renaissance as anatomists and physicians challenged the previously known theories.[4] These spread with the implementation of the printed word, the result of Gutenberg's printing press in the 15th century.[5] Allied with this was a large increase in academia in general, universities were forming all around the world.[6] Importantly, these new scholars went beyond the simplistic notions of the early Greek physicians, and shed light upon the complexities of the circulatory, and digestive systems.[7] Furthermore, by the middle of the 19th century, early medical schools (such as the Harvard Medical School, formed 1782) began appearing in the United States, whose graduates went on to assume positions of importance in academia and allied medical research.[8]
+Medical journal publications increased significantly in number during this period. In 1898, three articles on physical activity appeared in the first volume of the  American Journal of Physiology. Other articles and reviews subsequently appeared in prestigious journals. The German applied physiology publication, Internationale Zeitschrift fur Physiologie einschliesslich Arbeitphysiologie  (1929–1940; now known as the European Journal of Applied Physiology and Occupational Physiology), became a significant journal in the field of research.
+A number of key figures have made significant contributions to the study of sports science: 
+
+Austin Flint, Jr., (1836–1915) One of the first American pioneer physicians, studied physiological responses to exercise in his influential medical textbooks.[9]
+Edward Hitchcock, Jr., (1828–1911) Amherst College Professor of Hygiene and Physical Education, devoted his academic career to the scientific study of physical exercise, training, and the body. Coauthored 1860 text on exercise physiology.[10]
+George Wells Fitz, M.D. (1860–1934) Created the first departmental major in Anatomy, Physiology, and Physical Training at Harvard University in 1891.[11]
+August Krogh (1874–1949) Won the 1920 Nobel Prize in physiology for discovering the mechanism that controlled capillary blood flow in resting or active muscle.[12]
+Per-Olof Åstrand (1922–2015) Professor at the Department of Physiology, Karolinska Institute, Stockholm. Wrote a seminal paper which evaluated the physical working capacity of men and women aged 4–33 years.[13]
+Study of sports science[edit]
+A snowboarder leaning into the curve to counter the centrifugal force may be analyzed applying a force diagram from the field of mechanics, a discipline of physics
+The force diagram for the above scenario with the vectors (red arrows) for weight force (vertical), centrifugal force (horizontal) and resulting force (diagonal).
+A notable amount of research in the field of sports science is completed at universities or dedicated research centers.[14] Higher-education degrees in Sports Science or Human Physiology are also becoming increasingly popular, with many universities now offering both undergraduate, postgraduate and distance learning degrees in the discipline.[15] Opportunities for graduates in these fields include employment as a Physical Education teacher, Dietician or Nutritionist, Performance Analyst, Sports coach, Sports therapist, Fitness center manager, Sports administrator, Strength and Conditioning specialist, or retail manager of a sports store. Graduates may also be well-positioned to undertake further training to become an accredited Physiotherapist, Exercise Physiologist, Research Scientist and Sports Medical Doctor.
+Sports science may also be useful for providing information on the aging body.[16] Older adults are aware of the benefits of exercise, but many are not performing the exercise needed to maintain these benefits.[17] Sports science provides a means of allowing older people to regain more physical competence without focusing on doing so for the purposes of anti-aging.[16] Sports science can also provide a means of helping older people avoid falls and have the ability to perform daily tasks more independently.[16]
+In Australia, the majority of sports science research from 1983 to 2003 was done in laboratories and nearly half of the research was done with sub-elite or elite athletes.[14] Over two-thirds of the research was done regarding four sports: rowing, cycling, athletics, and swimming.[14] In America, sports play a big part of the American identity, however, sports science has slowly been replaced with exercise science.[18] Sports science can allow athletes to train and compete more effectively at home and abroad.[18]
+José Mourinho, a football manager who won UEFA Champions League twice, reflected his studies of sport science as "sometimes it is difficult to understand if it is sport or if it is science".[19]
+
+Academic journals in sports science[edit]
+Journal of Applied Biomechanics
+International Journal of Computer Science in Sport
+Journal of Strength & Conditioning Research
+Journal of Swimming Research
+Sports
+Medicine & Science in Sports & Exercise
+Journal of Science and Medicine in Sport
+Reproducibility[edit]
+A 2018 study criticized the field of exercise and sports science for insufficient replication studies, limited reporting of both null and trivial results, and insufficient research transparency.[20] Statisticians have criticized sports science for common use of magnitude-based inference, a controversial statistical method which has allowed sports scientists to extract apparently significant results from noisy data where ordinary hypothesis testing would have found none.[21]
+
+See also[edit]
+Computer science in sport
+Heuristics and sports
+Kinanthropometry
+Kinesiology
+Sports biomechanics
+Sports medicine
+References[edit]
+
+
+^ Schonbrun, Zach (13 April 2018). "How Do Athletes' Brains Control Their Movements?". The New York Times. ISSN 0362-4331. Archived from the original on 29 May 2023. Retrieved 27 November 2023.
+
+^ Berryman, Jack; Park, Roberta (1992). Sport and Exercise Science. Urbana and Chicago: University of Illinois Press. pp. 14–19. ISBN 0-252-01896-6. Archived from the original on 27 February 2023. Retrieved 18 January 2019.
+
+^ Victoria and Albert Museum, Online Museum (14 July 2011). "Health & Medicine". www.vam.ac.uk. Archived from the original on 22 March 2022. Retrieved 29 April 2022.
+
+^ Mesquita, Evandro Tinoco; de Souza Júnior, Celso Vale; Ferreira, Thiago Reigado (2015). "Andreas Vesalius 500 years – A Renaissance that revolutionized cardiovascular knowledge". Revista Brasileira de Cirurgia Cardiovascular. 30 (2): 260–265. doi:10.5935/1678-9741.20150024. PMC 4462973. PMID 26107459.
+
+^ "Background: The Printing Press and the Spread of Ideas | Encyclopedia.com". www.encyclopedia.com. Archived from the original on 29 April 2022. Retrieved 29 April 2022.
+
+^ "Universities". obo. Archived from the original on 29 April 2022. Retrieved 29 April 2022.
+
+^ "History of the Stomach and Intestines". web.stanford.edu. Archived from the original on 30 August 2022. Retrieved 29 April 2022.
+
+^ Flexner, Abraham (1 June 1910). "Medical Education in America". The Atlantic. Archived from the original on 17 March 2022. Retrieved 29 April 2022.
+
+^ McArdle, William; Katch, Frank; Katch, Victor (2006). Essentials of Exercise Physiology (3 ed.). United States of America: Lippincott Williams & Wilkins. p. 8. ISBN 0-7817-4991-3. Archived from the original on 27 February 2023. Retrieved 18 January 2019.
+
+^ Sweet, William. "150 Years Ago: Amherst Established Nation's First College Health Program". amherst.edu. Amherst College. Archived from the original on 5 December 2020. Retrieved 18 January 2019.
+
+^ McArdle, William; Katch, Frank; Katch, Victor (2006). Essentials of Exercise Physiology (3 ed.). USA: Lippincott Williams & Wilkins. p. 9. ISBN 0-7817-4991-3. Archived from the original on 27 February 2023. Retrieved 18 January 2019.
+
+^ "August Krogh Biographical". NobelPrize.org. The Nobel Prize Organization. Archived from the original on 28 March 2019. Retrieved 18 January 2019.
+
+^ Astrand, Per-Olof; Rodahl, Kaare; Dahl, Hans; Stromme, Sigmund (2003). The Textbook of Work Physiology (4th ed.). USA: McGraw-Hill. pp. 260–288. ISBN 0-7360-0140-9. Archived from the original on 27 February 2023. Retrieved 18 January 2019.
+
+^ a b c Williams, Stephen John; Kendall, Lawrence R. (1 August 2007). "A profile of sports science research (1983–2003)". Journal of Science and Medicine in Sport. 10 (4): 193–200. doi:10.1016/j.jsams.2006.07.016. ISSN 1440-2440. PMID 17000134. Archived from the original on 14 March 2012. Retrieved 29 April 2022.
+
+^ Nuzzo, James L. (2 July 2020). "Growth of Exercise Science in the United States since 2002: A Secondary Data Analysis". Quest. 72 (3): 358–372. doi:10.1080/00336297.2020.1736106. ISSN 0033-6297.
+
+^ a b c Tulle, Emmanuelle (1 December 2008). "Acting your age? Sports science and the ageing body". Journal of Aging Studies. The anti-aging enterprise: science, knowledge, expertise, rhetoric and values. 22 (4): 340–347. doi:10.1016/j.jaging.2008.05.005. ISSN 0890-4065. Archived from the original on 28 November 2023. Retrieved 29 April 2022.
+
+^ Goggin, N. L.; Morrow, J. (2001). "Physical Activity Behaviors of Older Adults". Journal of Aging and Physical Activity. 9: 58–66. doi:10.1123/JAPA.9.1.58. S2CID 140851467.
+
+^ a b Stone, Michael H.; Sands, William A.; Stone, Margaret E. (April 2004). "The Downfall of Sports Science in the United States". Strength & Conditioning Journal. 26 (2): 72–75. doi:10.1519/00126548-200404000-00014. ISSN 1524-1602. Archived from the original on 18 June 2022. Retrieved 29 April 2022.
+
+^ "José Mourinho: Talking Porto, Chelsea, Inter and his future management plans". The Coaches' Voice, Youtube. 30 June 2019. p. 4m20s–4m50s. Archived from the original on 22 December 2021.
+
+^ Halperin, Israel; Vigotsky, Andrew D.; Foster, Carl; Pyne, David B. (1 February 2018). "Strengthening the Practice of Exercise and Sport-Science Research". International Journal of Sports Physiology and Performance. 13 (2): 127–134. doi:10.1123/ijspp.2017-0322. hdl:10072/383414. ISSN 1555-0273. PMID 28787228. S2CID 3695727.
+
+^ Aschwanden, Christie; Nguyen, Mai (16 May 2018). "How Shoddy Statistics Found A Home In Sports Research". FiveThirtyEight. Archived from the original on 21 September 2020. Retrieved 16 May 2018.
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Sports science.
+
+British Association of Sport and Exercise Sciences Archived 25 May 2017 at the Wayback Machine
+American College of Sports Medicine
+European College of Sport Science
+Exercise & Sports Science Australia
+National Strength & Conditioning Association
+vteSportTypes
+Individual
+Team
+Military sports
+Parasports
+Women
+Professional
+Semi-professional
+Amateur
+Science
+Exercise
+Biomechanics
+Practice
+Periodization
+Physiology
+Strength training
+Doping
+Medicine
+Athletic training
+Chriopractic
+Injury
+Physicians
+Psychology
+Nutrition
+Bodybuilding supplements
+Sports drink
+Pedagogy
+Physical education
+Physical activity
+Rating system
+Sociology
+Organizations
+Clubs
+Governing bodies
+Leagues
+Season
+Postseason
+School
+Teams
+International
+Business
+Agents
+Broadcasting
+Economics
+Industry
+Marketing
+Sponsorship
+Trade
+Communication
+General managers
+Journalism
+Magazines
+Podcasts
+Radio
+Promoters
+Culture
+Betting
+Cheerleaders
+Entertainment
+Fan
+History
+Memorabilia
+Naming
+Nicknames
+Numbering
+Olympic culture
+Philosophy
+Rivalries
+Sports mascots
+Sportsmanship
+Violence
+Equipment
+Artificial turf
+Balls
+Caving
+Exercise
+Flying disc
+Sportswear
+Politics
+Sports law
+Ministries
+National sport
+Regulation
+Sport by region
+Africa
+Australia
+Asia
+Europe
+North America
+Oceania
+South America
+
+ Sports portal
+ Category
+ Outline
+
+Authority control databases: National 
+Germany
+Israel
+United States
+Latvia
+Japan
+Czech Republic
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Sports_science&oldid=1219275769"
+Categories: Sports scienceApplied sciencesHidden categories: Use dmy dates from November 2023Articles with short descriptionShort description matches WikidataCommons category link from WikidataWebarchive template wayback linksArticles with GND identifiersArticles with J9U identifiersArticles with LCCN identifiersArticles with LNB identifiersArticles with NDL identifiersArticles with NKC identifiers
+
+
+
+
+
+
+ This page was last edited on 16 April 2024, at 19:36 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+
+

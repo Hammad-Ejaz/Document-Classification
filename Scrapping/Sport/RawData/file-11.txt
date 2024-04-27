@@ -1,0 +1,990 @@
+
+
+
+
+Daily fantasy sports - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1Gameplay
+
+
+
+
+
+
+
+2History
+
+
+
+Toggle History subsection
+
+
+
+
+
+2.1Early examples
+
+
+
+
+
+
+
+2.2Growth
+
+
+
+
+
+
+
+2.3Mainstream popularity
+
+
+
+
+
+
+
+2.4Increased scrutiny
+
+
+
+
+
+
+
+2.5Legalization of sports betting in the United States
+
+
+
+
+
+
+
+
+
+3Marketing
+
+
+
+
+
+
+
+4Classification as gambling
+
+
+
+Toggle Classification as gambling subsection
+
+
+
+
+
+4.1Skill of players
+
+
+
+
+
+
+
+4.2Legal definitions of gambling
+
+
+
+
+
+4.2.1UIGEA carve-out
+
+
+
+
+
+
+
+
+
+4.3Self-imposed restrictions
+
+
+
+
+
+
+
+4.4Legal opinions and challenges
+
+
+
+
+
+4.4.1Legalization
+
+
+
+
+
+
+
+4.4.2New York ruling and lawsuit
+
+
+
+
+
+
+
+
+
+4.5League policies
+
+
+
+
+
+
+
+
+
+5See also
+
+
+
+
+
+
+
+6References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Daily fantasy sports
+
+
+
+1 language
+
+
+
+
+Suomi
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Subset of fantasy sport games
+This article is about daily fantasy sports. For fantasy sports in general, see Fantasy sport.
+
+Daily fantasy sports (DFS) are a subset of fantasy sport games. As with traditional fantasy sports games, players compete against others by building a team of professional athletes from a particular league or competition while remaining under a salary cap, and earn points based on the actual statistical performance of the players in real-world competitions. Daily fantasy sports are an accelerated variant of traditional fantasy sports that are conducted over short-term periods, such as a week or single day of competition, as opposed to those that are played across an entire season. Daily fantasy sports are typically structured in the form of paid competitions typically referred to as a "contest"; winners receive a share of a pre-determined pot funded by their entry fees. A portion of entry fee payments go to the provider as rake revenue.[1][2]
+In the United States, the daily fantasy sports industry was dominated by two competing services: the New York-based FanDuel, and the Boston-based DraftKings. Both companies were established as venture capital-backed startup companies, received funding from investment firms, sports broadcasters, leagues, and team owners, and became known for the aggressive marketing of their services. As of September 2015, both companies had an estimated value of at least $1 billion and controlled 95% of the U.S. DFS market.[3][4] The two primarily compete against smaller DFS services, such as  Fantasy Aces and Yahoo! Sports.[5][6] The popularity of the daily fantasy format has been credited to its convenience in comparison to season-length games, as well as the focus on major cash prizes in the promotion of these services. Daily fantasy was also credited with helping to improve television viewership and engagement with sports.
+DFS faced criticism over its semblance to sports betting; multiple U.S. states ruled that DFS contests constituted gambling and sports betting—which, at the time, was effectively illegal in most states under the Professional and Amateur Sports Protection Act of 1992—arguing that their elements of chance were predominant over those or skill, or how much control the player has over the outcome of the game. A New York State lawsuit, spawned from an investigation of allegations that DraftKings and FanDuel employees had used inside information to win cash prizes from each other, spawned retaliatory lawsuits from the companies. They argued that the rulings were the result of a misinterpretation of the nature of their services. By December 2017, 18 states, including Massachusetts and Virginia, had ruled that DFS was a legal game of skill.[7]
+In the U.S., these issues became largely moot in 2018, when the Professional and Amateur Sports Protection Act of 1992 was struck down in the Supreme Court lawsuit Murphy v. National Collegiate Athletic Association. With states free to legalize sports betting, DraftKings and FanDuel subsequently expanded into bookmakers to leverage their existing customer base and legal expertise, while FanDuel agreed to be acquired by Irish company Paddy Power Betfair to become its main U.S. subsidiary.
+
+
+Gameplay[edit]
+There are several main disciplines of daily fantasy sports competitions, divided into two categories: cash games, and guaranteed prize pool (GPP).[2][8][9] DFS contests typically utilize a salary cap format, in which players are allotted a maximum budget to spend on athletes for their team, represented as either play money or points. Each athlete has their own cost, with elite athletes having the highest costs.[10]
+In "Double-up" or "50/50" cash game competitions, players win a prize equal to double their entry fee if they finish with a score within the top 50% of all participants. Head-to-head competitions are similar, except that the player must win against another user of their choice.[8] Guaranteed prize pool contests have higher stakes, using tiered payouts based on finishing in different percentiles or positions of the field of contestants.[11] Further variations of double-up games, including Triple-up, Quadruple-up, and Quintuple-up, may also be offered.[12]  Leagues are smaller versions of GPP contests, with tiered payouts and a smaller number of contestants.
+Daily fantasy games exist in a variety of major and minor sports, depending on service, including but not limited to American football (college and the NFL), association football (soccer), auto racing, baseball, basketball, cricket, golf, ice hockey, rugby, horse racing and sumo wrestling.[9][13][14][15] Daily fantasy contests have also been held in professional-level e-sports events.[16]
+
+History[edit]
+See also: Fantasy sport § History
+Early examples[edit]
+In 1990, a pair of nationwide fantasy games, Dugout Derby and Pigskin Playoff, were launched in a variety of newspapers across the United States, including the Arizona Republic,[17] the Hartford Courant,[18] the Los Angeles Times,[19][20] and the Miami Herald.[21] Players chose their teams by calling a toll-free phone number and entering four-digit codes for each of their player selections. The games served as an early version of today's daily fantasy sports by rewarding each week's highest-scoring participants with prizes.[17][18]
+Among the first sites to specialize in the format of daily fantasy was Instant Fantasy Sports, established in 2007; the service's co-founder Chris Fargis explained that the service was inspired by the format of online poker, and that his goal was to "take the time frame of season-long fantasy sports leagues and shrink it."[22] The site was later acquired by NBC Universal and re-branded as SnapDraft; NBC had also acquired the fantasy sports-focused website Rotoworld in 2006. SnapDraft was later shut down.[23][24]
+
+Growth[edit]
+On July 21, 2009, the Edinburgh, Scotland-based prediction market game Hubdub launched a spin-off known as FanDuel; the service attempted to market itself as a modern alternative to the fantasy sports services provided by other media properties, such as Yahoo! Sports and CBSSports.com, with the daily fantasy format and integration with popular social networks.[25] Its founder, Nigel Eccles, was inspired to create the site when he realized that the carve-out for fantasy sports in the U.S. Unlawful Internet Gambling Enforcement Act of 2006 did not state that a legal, paid fantasy sports competition had to last for an entire season.[2] In February 2012, the Boston-based DraftKings was established by former VistaPrint executives Jason Robins, Matthew Kalish, and Paul Liberman. DraftKings gained a local, Somerville-based competitor in StarStreet, when it introduced a daily fantasy game of its own.[26]
+DraftKings and FanDuel in particular became the subjects of venture capital investments by various parties; in April 2013, Major League Baseball invested an undisclosed amount in DraftKings, becoming the first U.S. professional sports organization to invest in daily fantasy sports.[2] In 2014, DraftKings acquired DraftStreet, as well as StarStreet, and raised another $41 million in investment led by The Raine Group, bringing the company to a total of $75 million in outside funding.[27] FanDuel pursued investments as well, with an $11 million Series C funding round that included Comcast Ventures, a $70 million Series D round in September 2014 led by Shamrock Capital Advisors with participation from NBC Sports Ventures and KKR among others, and a Series E funding round of $275 million in July 2015, valuing the company at over $1 billion.[28][29] In October 2014, NBC Sports entered into a content sharing partnership with the DFS information website Rotogrinders, in which it would provide daily fantasy-oriented content for Rotoworld.[30]
+DraftKings and FanDuel began to pursue advertising and endorsement deals with sports franchises and leagues; in November 2014, DraftKings entered into a multi-year sponsorship deal with the National Hockey League,[31] complementing team-level sponsorship deals it had previously reached with seven NHL franchises.[citation needed] Also in November, the National Basketball Association acquired an equity stake in FanDuel and entered into a four-year sponsorship deal with the company.[32][33][34] In April 2015, after the National Football League began to allow daily fantasy providers to sign multi-year team sponsorship deals, with caveats, FanDuel reached deals with sixteen NFL teams for placements on team-oriented digital properties, radio, and in-stadium.[33] DraftKings had also received an investment by Robert Kraft—a local businessman whose holdings include the New England Patriots.[35]
+
+Mainstream popularity[edit]
+By 2015, the daily fantasy sports industry had experienced a major growth in mainstream popularity. The rise was credited to several factors, including the convenience of the format, the ability to access the services on mobile devices, and aggressive marketing campaigns which promoted the prospective cash prizes of their largest contests.[22][36][37] The structure and payouts of daily fantasy games have been described as providing a feeling of "instant gratification" to its players, similar to that of online gambling.[36]
+Writing for The New York Times Magazine, Jay Caspian Kang noted that despite its similarities to gambling, DFS appealed to mainstream sports fans because it evoked the feelings of community commonly associated with traditional fantasy sports, rather than the "shady underground games" of poker.[22] The popularity of daily fantasy has also influenced fan engagement with sports; Fox Sports president Erik Shanks felt that daily fantasy sports help improve television viewership of sporting events, while FanDuel stated that players became more engaged with sports content after joining the service.[36]
+In July 2015, Yahoo!, a historic provider of season-length fantasy sports, announced that it would begin to offer paid daily and weekly fantasy games as part of its Yahoo! Sports website.[6] Moneyball, one of the first Australian DFS services, was also established by former Fairfax Media employees James Fitzgerald and Rax Huq; the company secured $1.8 million in series A funding. Fitzgerald noted that the sports betting industry in Australia had brought in $900 million in yearly revenue and that DFS was "a more ethically and morally preferred means of partnership with a bookmaker."[38]
+In September 2015, DraftKings and FanDuel expanded their offerings into competitive video gaming; FanDuel acquired the e-sports focused DFS service AlphaDraft (which FanDuel planned to operate as an independent brand), while DraftKings added contests for the 2015 League of Legends World Championship.[16][39]
+
+Increased scrutiny[edit]
+In 2015, daily fantasy sports began to face increased legal scrutiny. In August 2015, a class action lawsuit was filed against DraftKings, alleging that it engaged in false advertising in regards to a promotion in which the service claimed it would double a new user's first deposit. The suit alleged that DraftKings would only credit the deposit bonus to a player's account if they fulfill certain monetary and participation requirements within four months, causing them to "incur additional and substantial monetary obligations", rather than instantly receive the bonus as implied by advertising.[40]
+On October 6, 2015, following reports that a DraftKings employee had used inside information to win $350,000 on FanDuel, New York Attorney General Eric Schneiderman announced that he had opened an investigation into the two services and the allegations that employees from the two services were using this information to win prizes from each other.[41][42] Both sites have since barred their employees from participating in daily fantasy games.[43] On October 14, 2015, the FBI launched an investigation of its own into the two services regarding the inside information scandal.[43]
+In the wake of the scandal, multiple class-action lawsuits were filed against both DraftKings and FanDuel, with suits alleging charges such as fraud, racketeering, negligence, and false advertising, arguing that the employees' use of inside information had made the games unfair. One of the lawsuits were filed by a resident of New Orleans, despite paid fantasy games being illegal in the state.[44][45][46] On October 30, 2015, Washington NFL player Pierre Garçon also filed a class-action lawsuit against FanDuel, arguing that the service had exploited his name and likeness without permission as part of its services and marketing. FanDuel objected to the lawsuit, arguing that its use of his likeness fell within existing case law surrounding the use of player names and statistics in fantasy sports games.[47] Garçon's lawsuit was settled out of court.[48]
+In December 2015, Canadian media company TheScore launched QuickDraft, a daily fantasy game targeted at both Canada and the United States, based on the intellectual property of its 2014 acquisition of Swoopt. In contrast to other DFS services and in an effort to work around the increased scrutiny and uncertain legality of paid games, the service is being positioned as a free-to-play service with smaller cash prizes, a more "casual" atmosphere with fewer "sharks", and the possibility of being advertising-funded in the future.[49]
+DraftKings and FanDuel attempted to merge in 2017, but the deal was shelved after the U.S. Federal Trade Commission threatened to block it over concerns that the combined company would have a monopoly on paid DFS.[50][51]
+
+Legalization of sports betting in the United States[edit]
+See also: Sports betting § United States
+In May 2018, the Professional and Amateur Sports Protection Act of 1992—which outlawed state legalization of sports betting in most U.S. states (excluding grandfathered states such as Nevada)—was declared unconstitutional by the Supreme Court in Murphy v. National Collegiate Athletic Association. The following month, Delaware became the first state to create new legislation to allow sports betting,[52] followed shortly by New Jersey.[53][54]
+Analysts predicted that the duopoly of DraftKings and FanDuel would make moves to capitalize on the decision, including leveraging their regulatory expertise and influence to lobby for state legalization of sports betting, and incorporating betting features into their platforms to take advantage of their existing market positions and brand recognition. Later that month, FanDuel announced that it would be acquired by Paddy Power Betfair, to bolster the Irish bookmaker's U.S. operations.[55][56][57][58] Both DraftKings and FanDuel launched sports betting operations in New Jersey in August 2018.[59][60][61]
+
+Marketing[edit]
+The aggressive marketing tactics used by daily fantasy services have also affected the growth of the industry. In June 2015, DraftKings entered into a three-year sponsorship deal with ESPN valued at $250 million; the deal gave DraftKings exclusivity in advertising daily fantasy services on ESPN networks beginning in January 2016, and included "integration" of the service into ESPN's television and digital content. DraftKings also entered into an advertising deal with Fox Sports; in exchange for Fox acquiring a $150 million equity stake in the company, DraftKings agreed to buy $250 million in advertising over the next three years.[62][63][64][65]  DraftKings' sponsorship exclusivity deal with ESPN was also to include the acquisition of an equity stake in the company, but this aspect of the deal was reportedly called off due to objections by ESPN's parent, The Walt Disney Company, over financially associating itself with activities that could be classified as gambling.[62][66][67]
+DraftKings and FanDuel also became known for their use of direct response advertising on television, especially during sports telecasts.[68][69] Capitalizing on the start of football season, iSpot.tv estimated that DraftKings and FanDuel collectively spent over $107 million on television advertising in September 2015 alone—with nearly half being spent on advertising during National Football League telecasts ($23.6 million by DraftKings, and $26.7 million spent by FanDuel). Of the total, $60.1 million was spent by DraftKings, with $7.95 million spent during college football games, $2.05 million during ESPN's sports news program SportsCenter, and $1.36 million during South Park episodes.[3] The marketing push was met with a negative reaction from viewers on social networks such as Twitter, who considered the repetitive airplay of DFS commercials during football games to be an annoyance.[68][70]
+The increased legal scrutiny surrounding DFS resulted in providers spending less on marketing in order to focus more on legal costs.[71] On February 10, 2016, it was reported that ESPN had backed out of its advertising deal with DraftKings, and that Fox had marked down its investment in DraftKings by 60%—a loss of $95 million.[72][73]
+
+Classification as gambling[edit]
+See also: Fantasy sport § Legal issues in the United States
+There are conflicting arguments over whether paid daily fantasy sports games constitute gambling, due to its mixture of chance-based and skill-based elements.[74][75][76] Critics of DFS have argued that because athlete performance can vary on a week-to-week basis, players are essentially wagering on the performance of individual athletes during a given game, rather than managing their team on a week-to-week basis across a season.[74][75][76]  On the other hand, proponents have argued that the act of preparing a daily fantasy team is an activity of skill, as it requires knowledge of the sport, its individual players and their respective performance at a particular moment in time, and the ability to select suitable players within the limitation of a salary cap.[77][78][79]
+In an "IAmA" thread on Reddit, DraftKings CEO Jason Robins described the service as being "almost identical to a casino", described the concept of DFS as a cross between fantasy sports and online poker, and repeatedly referred to the service using gambling-oriented terms such as "wager" and "betting".[12][40][75][76][80][81] DraftKings and FanDuel have also entered into affiliation and sponsorship agreements with gambling-oriented entities; DraftKings sponsored the 2015 Belmont Stakes and the World Series of Poker, while FanDuel has affiliated with websites related to sports betting.[82] At the same time, both companies have stated that their daily fantasy games represent a game of skill.[83] In the 2007 federal lawsuit Humphrey v. Viacom, Inc., Judge Dennis M. Cavanaugh of the U.S. District Court of New Jersey distinguished an "entry fee" in a paid fantasy sports competition as being a fee required to participate rather than a "wager", because they are "paid unconditionally", and because the prizes in such games were "guaranteed" and determined in advance.[84][85]
+
+Skill of players[edit]
+Bloomberg Businessweek acknowledged that daily fantasy contests are often won by a minority of skilled professional players, or "sharks", who employ "elaborate statistical modeling and automated tools that can manage hundreds of entries at once and identify the weakest opponents". A DFS player interviewed by Bloomberg argued that "no matter how much somebody knows about sports, if you put an established player up against a new player, that established player's probably going to have a 75 percent chance of winning—at least."[86][22] A study by McKinsey & Company over the first half of the 2015 MLB season estimated that 91% of winnings were won by only 1.3% of players. FanDuel CEO Nigel Eccles disputed the accuracy of the study, arguing that its daily fantasy baseball contests do not have as many participants as those it runs for football.[87][88]
+Writing for The New York Times Magazine, Jay Caspian Kang argued that DFS games themselves were "not inherently crooked", explaining that "most of the benefits praised by its enthusiasts — the ease of play, the camaraderie among fans, the challenge of solving what amounts to a math puzzle — are real. It does take skill to parse game film, diligently follow the news and interpret the thousands of bits of sports information that are generated each night. If a problem gambler at the poker rooms I frequent in New York City were to hire a programmer and flood the D.F.S. market with his lineups, he would almost certainly hemorrhage money."[22]
+In response to these concerns, DFS services implemented changes to improve the fairness and transparency of their contests, including entry limits, banning off-site scripts, identifying veteran-level players, allowing users to block players they do not wish to compete against, and adding beginner-level contests intended for new users.[88][89][86]
+
+Legal definitions of gambling[edit]
+In U.S. federal law, criminal gambling statutes include the Federal Wire Act—which prohibits interstate sports wagering, the Illegal Gambling Business Act (18 U.S.C. § 1955)—which prohibits the interstate conduct of wagering activity prohibited under state law,[90][91] and the Unlawful Internet Gambling Enforcement Act (UIGEA)—which prohibits the transfer of funds in connection to online gambling that is prohibited under state law.[40][90] The Professional and Amateur Sports Protection Act of 1992 also forbade all states, besides Nevada and other grandfathered states, from authorizing sports wagering activities, although it was ruled in May 2018 that this law was unconstitutional.[92][93]
+Each state applies varying standards in regards to determining whether a game is one of skill, or of chance; in most states, this determination is based on whether the skill-based elements of the game are predominant over those of chance, and whether these chance-based elements have more than an incidental effect on the outcome of the game (dominant factor test, material degree).[94] Some states use stricter criteria, under which games whose outcomes are influenced by any element of chance, or appeal to a "gambling instinct", are considered games of chance, regardless of the presence of skill-based elements.[94]  Applying the predominance test, the Supreme Court of Illinois ruled that participants in daily fantasy contests are "actual contestants in the bona fide contest for the determination of skill" and do not violate Illinois' prohibition on gambling.[95][96]  The court disagreed with an Illinois Attorney General Opinion that interpreted "actual contestants" to mean the persons in the athletic contest.[97][98]
+In 2015, the Canadian Gaming Association commissioned an opinion on the legality of DFS in Canada from former Alcohol and Gaming Commission of Ontario general counsel Don Bourgeois. He determined that DFS would likely be classified as a game of chance under Canadian law, going on to say in an interview that under the Criminal Code of Canada, games that mix chance- and skill-based elements are considered games of chance. However, Canadian authorities have not yet targeted DFS services; historically, the government has only targeted illegal gambling operations that have a presence within the country.[99] While the service Sport Select offers legal sports wagering games through Canada's lotteries, it is subject to a legal prohibition on wagering on individual sporting events.[100]
+
+UIGEA carve-out[edit]
+The UIGEA has frequently been cited as having exempted daily fantasy games from being considered gambling, as the law does not consider an online contest with pre-determined prizes, and an outcome based on skill that is "determined predominantly by accumulated statistical results of sporting events, including any non-participant's individual performances in such sporting events", to be unlawful wagering.[40][90][101][102] The carve-out was based on the language of an amendment proposed by Senator Richard Bryan to the failed Internet Gambling Prohibition Act.[78][103]
+The act itself does not define unlawful internet wagering, and expressly refrains from altering the legality of any underlying conduct other than funds transfers, meaning that state law remains binding.[90][91] It also depends on banks to act as enforcers of the prohibitions.[104] Congressman Jim Leach, who authored the UIGEA, explained that the fantasy sports carve-out was meant to relieve the burden of enforcement of the act by banks, nor cover the present-day daily fantasy industry, and that "it is sheer chutzpah for a fantasy sports company to cite the law as a legal basis for existing".[90][105][106]
+
+Self-imposed restrictions[edit]
+Daily fantasy services have historically blocked residents of Arizona, Iowa, Louisiana, Montana and Washington from participating in paid games, under a presumption that DFS is illegal in these states due to the strictness of their gambling laws.[107][12][40][74][83] However, a November 2015 investigation by The New York Times found that these geoblock restrictions could easily be circumvented using anonymous proxies, and it was estimated that in 2014, DraftKings had still collected $484,897 in entry fees from players in the five states where it had voluntarily asserted that DFS was illegal.[82][108] These reports led to regulatory probes by investigators in the aforementioned states.[109] Both websites have since implemented measures to block proxy users.[110][12][40][74][83]
+
+Legal opinions and challenges[edit]
+Louisiana attempted to pass a law that would exempt fantasy sports from its anti-online gambling laws, but the bill was defeated as the result of lobbying by both the Louisiana Family Forum (which showed concerns that players could develop an addiction to daily fantasy games), and the Louisiana Video Gaming Association (which felt that DFS would cannibalize the legal video poker industry, and needed to be highly regulated).[111]
+On October 15, 2015, the Nevada Gaming Control Board published a memorandum ruling that daily fantasy sports games were a form of sports wagering, and that DFS services must cease serving customers in the state of Nevada until they obtain a sports pool license.[12][35] The Board felt that DFS fell under the state's definitions of a "gambling game" and a "sports pool", as they "[accept] wagers on sporting events or other events by any system or method of wagering", including wagers on events occurring during a sporting event (props), combinations of multiple events occurring within an event (parlays), and against the performance of other players, with "rake-offs" taken by the operator on each wager (defined as a "percentage game" under Nevada law).[12] In further support of its argument, the memorandum cited Jason Robins' comments on Reddit that described DraftKings using gambling-oriented terminology; the board stated that its classification was "consistent with how operators of certain daily fantasy sports describe themselves".[12]
+On January 17, 2016, Attorney General of Texas Ken Paxton issued an opinion, stating that "it is prohibited gambling in Texas if you bet on the performance of a participant in a sporting event and the house takes a cut." On the other hand, Paxton stated that traditional, season-length fantasy sports were legal.[112][113] Prior to the ruling, it was also reported that Gary Grief, executive director of the Texas Lottery, had been investigating ways of integrating DFS into the state lottery system, including attempts to pursue DraftKings as a partner for a proposed game which would have offered credit for the service as prizes.[114] FanDuel ceased serving residents of Texas, but DraftKings filed a request for declaratory judgment on March 4, 2016, seeking clarification on the matter.[115]
+On January 27, 2016, at the request of Senator Rosalyn Baker, Attorney General of Hawaii Doug Chin issued an opinion that DFS could be illegal under Hawaii law, as it involves a wager on an event outside of the player's control. He explained that "the technology may have changed, but the vice has not."[116]
+On April 5, 2016, Attorney General of Alabama Luther Strange ruled that DFS was illegal under state law, and sent cease and desist notices to DraftKings and FanDuel ordering them to stop serving residents of Alabama by May 1, 2016. He argued that while picking players for a fantasy team is an activity of skill, player performance can vary, and Alabama law dictates that it is illegal to risk something of value on any game with an element of chance.[117]
+
+Legalization[edit]
+In September 2015, the state of Massachusetts tabled a bill exploring the possibility of allowing the Massachusetts Lottery to run online, skill-based games, such as daily fantasy sports.[118] On November 19, 2015, the government announced that it would allow daily fantasy sports services to operate within Massachusetts under proposed regulations, including the requirement for all players to be 21 and over, banning members of the professional sports industry from playing the games (including athletes), and banning the marketing of the services in colleges and high schools.[119]
+On March 7, 2016, the state of Virginia passed legislation regulating "fantasy contests", defined as skill-based games with cash prizes that are based on the "accumulated statistical results of the performance of individuals"; the law makes no reference to sports or DFS. Services must pay a $50,000 registration fee, be restricted to those who are 18 and older, and be subject to yearly independent audits. The law was criticized for being broadly-worded, with critics believing that it could feasibly apply to season-length games or any similar activities, and that the required licensing fee adds a financial barrier for doing business in the state.[120][121][122]
+On May 10, 2016, it was reported that the U.S. House Subcommittee on Commerce, Manufacturing and Trade was planning to discuss the legal aspects of DFS in a hearing.[123]
+In August 2016, New York became the largest state to legalize daily fantasy sports.[124] Nearby New Jersey and Pennsylvania each followed suit in mid-2017.[125][126]
+By the end of 2017, 18 different states had legalized paid-entry fantasy sports contests. Governor John Kasich of Ohio signed a bill in late December making Ohio the eighteenth.[127]
+
+New York ruling and lawsuit[edit]
+On November 10, 2015, Attorney General of New York State Eric Schneiderman issued a cease-and-desist order to DraftKings and FanDuel, arguing that DFS was illegal under state law (which specifies that games where players "risk something of value" and do not have "control or influence" over the outcome, are gambling),[128][129] and ordering the two services to cease serving residents of New York. He stated that DFS "wagers" represented "a wager on a 'contest of chance' where winning or losing depends on numerous elements of chance to a 'material degree'". He characterized the DFS industry as being a "massive, multi-billion-dollar scheme intended to evade the law and fleece sports fans across the country", causing the "same public health and economic problems associated with gambling, particularly for populations prone to gambling addiction and individuals who are unprepared to sustain losses, lured by the promise of easy money."[83][130]
+In response, DraftKings and FanDuel filed lawsuits against the state of New York on November 13, arguing that their games were one of skill, they had been denied due process due to the Attorney General's abruptness, that he does not have the power to make such a ruling, and that Schneiderman engaged in tortious interference by sending cease and desist notices to their payment processors.[131][132] On November 16, the two services tried to request a temporary restraining order to prevent Schneiderman from enforcing the cease-and-desist, but a state judge declared their request to be premature. Following the hearing, a spokesperson for the Attorney General declared that he could file a formal lawsuit against the two sites "as soon as tomorrow". The same day, state senator Michael Ranzenhofer introduced a bill that would explicitly classify daily fantasy sports as a game of skill.[84][130]
+On November 17, 2015, the Attorney General filed a request for a temporary injunction to force DraftKings and FanDuel to cease serving customers in the state of New York. In the filing, Schneiderman argued that DFS was merely a "re-branding" of sports betting, and in response to claims that DFS constitutes a game of skill, he argued that "a few good players in a poker tournament may rise to the top based on their skill; but the game is still gambling." Schneiderman also acknowledged that the two services had "basic compliance issues" (alluding to the inside information scandal), had associated themselves with gambling-oriented entities, and that DraftKings had accepted entry fees from users in states where it argued that DFS was illegal.[82][133] The Attorney General also issued a subpoena for information from Yahoo! in regards to its own daily fantasy offerings.[82] FanDuel stated that it would comply with the order and restrict participation by residents of New York, while DraftKings stated that it would continue to serve them, arguing that Schneiderman's decision was based on an "incomplete understanding of the facts about how our business operates and a fundamental misinterpretation and misapplication of the law".[82][129]
+During hearings on November 25, 2015, Judge Manuel J. Mendez disputed assertions by the services that a player's choice of athletes represents "control or influence" over the outcome, stating that players are ultimately "relying on someone else's skill" to determine an outcome.[129] On December 11, 2015, the temporary injunction was granted, forbidding DraftKings and FanDuel from "accepting entry fees, wagers or bets" from residents of New York state.[85] Mandez argued that "the payment of an 'entry fee' as high as $10,600 on one or more contests daily could certainly be deemed risking 'something of value'." He also ruled that the UIGEA "has no corresponding authority under New York State law".[107][128] However, Mandez granted a temporary stay following requests for an appeal.[134] On December 31, 2015—prior to an appeals court on whether they could continue to operate during the lawsuit, the Attorney General amended the lawsuit to demand that the two companies pay restitution—including the return of all money collected from customers in New York State. Schneiderman also acknowledged the services' deceptive advertising practices, such as "convoluted" first deposit bonuses.[135]
+On January 11, 2016, DraftKings' and FanDuel's stay was granted, meaning that they could continue to serve New York residents, pending the outcome of the appeal.[136] However, later that month, Vantiv announced that it would no longer provide its payment processing services to the DFS industry, and in early-February 2016, Citigroup announced that it would no longer process payments for DraftKings and FanDuel made by residents of New York State,  "pending a final decision by the courts".[137][138]
+The Boston Globe believed that a ruling on the legality of DFS in New York State would have industry-wide implications, as it is one of the largest markets for these services.[109] Writing for The New Yorker, James Surowiecki believed that it was hypocritical for the state of New York to campaign against daily fantasy sports—which, in an op-ed, the Attorney General classified as a "particularly pernicious" activity, as the state already sponsors and/or endorses other forms of legal gambling based purely on chance rather than a mix of chance and skill, such as the state lottery, casinos, and horse racing. Surowiecki argued that "given the absence of a good argument for why daily fantasy should be illegal in New York, while the lottery and racetrack betting and casinos are not, the best strategy that DraftKings and FanDuel could pursue might be to get the State Legislature to eliminate the inconsistency and explicitly legalize them."[139]
+On March 21, 2016, the Attorney General announced a partial settlement of its lawsuit, under which DraftKings and FanDuel agreed to cease offering paid games in the state of New York, and abide by the result of an upcoming appeals court hearing. The hearings, which would determine whether the services would have to pay restitution, were tentatively scheduled for September 2016—assuming that legislation legalizing daily fantasy sports was not passed by then. DraftKings and FanDuel spokespersons stated that the companies were working with local officials and supporting legislation to legalize DFS under state law. This settlement does not address the false advertising claims, which are still being pursued. The next day, Yahoo announced that it would voluntarily comply with the settlement and also cease offering paid games in the state of New York.[140][141][142]
+On June 18, 2016, the New York State senate approved legislation to legalize daily fantasy sports. Daily fantasy providers will be required to pay 15.5% of their annual revenue to the New York Lottery's education fund in order to serve customers in the state.[143]
+
+League policies[edit]
+The NCAA considers all paid fantasy games—including daily fantasy—to fall under its prohibition of sports wagering by student athletes, punishable by ineligibility to participate in NCAA-sanctioned athletics for one year. Advertising for daily fantasy services are also forbidden from being broadcast during telecasts of the NCAA's tournaments. In August 2015, the NCAA and a group of ten conferences jointly campaigned against daily fantasy games featuring college sports, asserting that DFS is inconsistent with the NCAA's policies and values.[144][145] The SEC had discussions with its broadcast partners in an attempt to discourage the advertising of daily fantasy games during its telecasts, while both Big Ten Network and Pac-12 Network prohibited advertising for daily fantasy games involving college sports.[144] On December 9, 2015, it was reported that ESPN had similarly agreed not to air advertising for daily fantasy services during telecasts of the College Football Playoff.[146] On March 31, 2016, DraftKings and FanDuel jointly agreed to stop offering daily fantasy college sports following the conclusion of the 2016 NCAA Men's Division I Basketball Tournament.[147]
+The NFL does not outright ban participation in paid or daily fantasy sports games by its players and staff, but does restrict how much one may win in such games.[148]
+The PGA Tour prohibits its players from participation in paid DFS games involving golf, or endorsing DFS companies.[149]
+FanDuel's Terms of Service bans any athlete, coach, referee, or owner from entering contests for the sport in which they are involved with.[150] Furthermore, DraftKings announced that CFL players were not allowed to enter any CFL contests shortly after announcing their partnership with the league.[151]
+
+See also[edit]
+Skin gambling
+References[edit]
+
+
+^ "$500,000 DraftKings 1-Day Fantasy Baseball Contest Could Make You Rich Overnight". SportsGrid. Anthem Media Group. Retrieved October 9, 2015.
+
+^ a b c d Kilgore, Adam (March 27, 2015). "Daily fantasy sports Web sites find riches in Internet gaming law loophole". The Washington Post. Retrieved October 8, 2015.
+
+^ a b "Fantasy Sports Sites DraftKings, FanDuel September Spend Tops $100 Million". Advertising Age. September 30, 2015. Retrieved October 9, 2015.
+
+^ "Daily Fantasy-Sports Operators Await Reality Check". The Wall Street Journal. September 9, 2015. Retrieved October 15, 2015.(subscription required)
+
+^ "Fantasy Aces Could Be the 'Pick' of the Fantasy Sports Space". SmallCap Network. Retrieved October 15, 2015.[permanent dead link]
+
+^ a b Goel, Vindu; Drape, Joe (July 8, 2015). "Yahoo Will Enter Daily Fantasy Sports Market". The New York Times. Retrieved October 9, 2015.
+
+^ Gouker, Dustin (December 5, 2017). "Ohio Sends Fantasy Sports Bill To Governor; Would Be 18th State With Law". Legal Sports Report. Retrieved December 9, 2017.
+
+^ a b "Cash Games vs. Tournaments". RotoWorld. NBC Sports Group. Archived from the original on October 15, 2015. Retrieved October 9, 2015.
+
+^ a b "Daily fantasy pushes to continue growth streak". Sports Business Journal. Retrieved October 8, 2015.
+
+^ "How to make a killer daily fantasy sports football roster on DraftKings and FanDuel". VentureBeat. September 10, 2015. Retrieved October 9, 2015.
+
+^ "Daily Fantasy Strategy: How to play 50/50, H2H, GPP contests". The Sporting News. Retrieved October 9, 2015.
+
+^ a b c d e f g "Legality of Daily Fantasy Sports Under Nevada Law". State of Nevada. Retrieved October 20, 2015.
+
+^ "Companies at center of fantasy sports turmoil have big ambitions". Boston.com. Boston Globe Media Partners, LLC. Retrieved October 15, 2015.
+
+^ "The DFS Revolution Cannot Be Stopped: Here Comes Fantasy Sumo Wrestling". SportsGrid. Retrieved June 9, 2016.
+
+^ "Sports Perfecta Launches Daily Fantasy Jockey for Horse Racing Enthusiasts in the United States". Yahoo. Retrieved June 9, 2016.
+
+^ a b "FanDuel Acquires eSports Company AlphaDraft, Also Jumps Into Competitive Video Gaming". Re/code. Vox Media. September 24, 2015. Retrieved October 15, 2015.
+
+^ a b "Epson's Pigskin Playoff Game. It's a Snap to Play. It's a Kick to Win". Arizona Republic. September 2, 1990. Retrieved October 16, 2020.(subscription required)
+
+^ a b "Manage Your Way to the Hall of Fame in the Dugout Derby Contest". Hartford Courant. April 29, 1990. Retrieved June 23, 2020.(subscription required)
+
+^ "Manage Your Way to the Hall of Fame in the Dugout Derby Contest". Los Angeles Times. April 23, 1990. Retrieved June 23, 2020.(subscription required)
+
+^ "The Pigskin Playoff Game. It's a Snap to Play. It's a Kick to Win". Los Angeles Times. September 9, 1990. Retrieved October 16, 2020.(subscription required)
+
+^ "The Pigskin Playoff Contest. It's a Snap to Play. It's a Kick to Win". Miami Herald. September 12, 1990. Retrieved October 16, 2020.(subscription required)
+
+^ a b c d e Kang, Jay Caspian (January 6, 2016). "How the Daily Fantasy Sports Industry Turns Fans Into Suckers". New York Times Magazine. Retrieved January 6, 2016.
+
+^ "With NFL on, NBC Sports redoes Web look". USA Today. Gannett Company. Retrieved October 8, 2015.
+
+^ "Game Over: Why Daily Fantasy Has Already Been Won". BreakingVC. Retrieved October 8, 2015.
+
+^ Butcher, Mike. "FanDuel turns fantasy sports betting into a social game". TechCrunch. AOL, Inc. Retrieved March 18, 2012.
+
+^ "Two local companies, StarStreet and DraftKings, prepare to launch new fantasy sports sites". Boston.com. Boston Globe Media Partners, LLC. February 27, 2012. Retrieved July 21, 2015.
+
+^ "DraftKings Raises Another $41M And Acquires Daily Fantasy Sports Competitor StarStreet". TechCrunch. AOL, Inc. August 25, 2014. Retrieved July 21, 2015.
+
+^ Chernova, Yuliya (September 2, 2014). "FanDuel Raises $70 Million as Daily Fantasy Sports Battle Heats Up". The Wall Street Journal. Dow Jones & Company. Retrieved October 15, 2014.
+
+^ Lora Kolodny (July 14, 2015). "Fantasy Sports Create Billion-Dollar Startups". The Wall Street Journal. Dow Jones & Company.(subscription required)
+
+^ "NBC's RotoWorld, RotoGrinders Ink Fantasy Sports Partnership". Sports Video Group. October 14, 2014. Retrieved October 17, 2015.
+
+^ "NHL announces partnership with DraftKings". NHL.com. November 10, 2014. Retrieved January 22, 2022.
+
+^ "NBA partners with FanDuel". ESPN.com. November 12, 2014. Retrieved October 9, 2015.
+
+^ a b Schrotenboer, Brent (April 21, 2015). "FanDuel signs deals with 15 NFL teams, escalating daily fantasy integration". USA Today. Gannett Company.
+
+^ "NHL Signs Two-Year Deal With DraftKings As Rise Of Daily Fantasy Games Continues". Sports Business Journal. November 10, 2014. Retrieved October 8, 2015.
+
+^ a b "Nevada Says It Will Treat Daily Fantasy Sports Sites as Gambling". The New York Times. October 15, 2015. Retrieved October 16, 2015.
+
+^ a b c "The rise of daily fantasy sports, online betting's newest empire". The Washington Post. Retrieved October 9, 2015.
+
+^ Drape, Joe; Williams, Jacqueline (October 5, 2015). "Scandal Erupts in Unregulated World of Fantasy Sports". The New York Times. Retrieved October 8, 2015.
+
+^ "Moneyball the new sporting fantasy". Australian Financial Review. September 4, 2015. Retrieved December 13, 2015.
+
+^ "DraftKings brings its daily-fantasy sports empire to esports". VentureBeat. September 23, 2015. Retrieved October 15, 2015.
+
+^ a b c d e f Hohler, Bob. An uncertain line between fantasy sports, gambling. The Boston Globe (Boston Globe Media Partners, LLC). August 2, 2015. Retrieved September 29, 2015.
+
+^ Drape, Joe; Williams, Jacqueline (October 5, 2015). "Scandal Erupts in Unregulated World of Fantasy Sports". The New York Times. ISSN 0362-4331. Retrieved October 10, 2015.
+
+^ Drape, Joe and Williams, Jacqueline. New York Attorney General Opens Inquiry Into Fantasy Sports Sites. New York Times. October 6, 2015. Retrieved October 6, 2015.
+
+^ a b Drape, Joe; Williams, Jacqueline (October 15, 2015). "F.B.I. Investigating Daily Fantasy Sports Websites". The New York Times. Retrieved October 15, 2015.
+
+^ "Class action lawsuit filed against DraftKings and FanDuel". ESPN.com. October 8, 2015. Retrieved October 15, 2015.
+
+^ "New Orleans man files lawsuit against FanDuel, DraftKings". WWLTV.com. Tegna, Inc. Retrieved October 16, 2015.
+
+^ "DraftKings, FanDuel Accused of Racketeering in New Lawsuit". NBC News. NBCUniversal Media. Retrieved October 16, 2015.
+
+^ Kolodny, Lora (October 31, 2015). "NFL Player Sues Fantasy Sports Company FanDuel". The Wall Street Journal. Dow Jones & Company. Retrieved November 1, 2015.
+
+^ "Four big issues facing the DFS industry in 2016". ESPN.com. February 11, 2016. Retrieved February 13, 2016.
+
+^ Bradshaw, James; Shoalts, David (December 10, 2015). "TheScore bets on daily fantasy sports with QuickDraft launch". The Globe and Mail. Retrieved December 24, 2015.
+
+^ Spangler, Todd (July 13, 2017). "DraftKings, FanDuel Scrap Merger Plans After FTC Opposition". Variety. Retrieved July 13, 2017.
+
+^ "The FTC is attempting to block the DraftKings-Fanduel merger". TechCrunch. Oath. Retrieved June 19, 2017.
+
+^ Rick Maese (June 5, 2018). "Delaware is the first new state to bet on sports gambling, but it might not pay off". Washington Post.
+
+^ Nick Corasaniti (June 11, 2018). "New Jersey Legalizes Sports Betting". The New York Times. Retrieved July 31, 2018.
+
+^ Gary Martin (May 14, 2018). "Supreme Court strikes down law banning sports betting outside Nevada". Las Vegas Review-Journal. Retrieved July 31, 2018.
+
+^ "DraftKings and FanDuel Prepare to Cash In on the Supreme Court's Ruling on Sports Gambling". Adweek. Retrieved July 9, 2018.
+
+^ "Sports betting ruling could shake up Mass. gaming". The Boston Globe. Archived from the original on July 10, 2018. Retrieved July 9, 2018.
+
+^ Roettgers, Janko (May 23, 2018). "FanDuel Acquired by Paddy Power Betfair". Variety. Retrieved July 9, 2018.
+
+^ Grossman, Evan. "How FanDuel and DraftKings are taking aim at the world of sports gambling: 'The whole marketplace is going to evolve'". New York Daily News. Retrieved July 9, 2018.
+
+^ "FanDuel to open sportsbook at Meadowlands". ESPN.com. Retrieved July 31, 2018.
+
+^ Nick Corasaniti (June 11, 2018). "New Jersey Legalizes Sports Betting". The New York Times.
+
+^ "DraftKings launches mobile sports betting in New Jersey". Reuters. August 1, 2018. Retrieved October 30, 2019.
+
+^ a b "DraftKings Raises $300 Million, Promises to Spend Much of It With Fox Sports". Re/code. Vox Media. Archived from the original on October 12, 2015. Retrieved October 15, 2015.
+
+^ "ESPN Teams with DraftKings as Exclusive Daily Fantasy-Sports Partner". Variety. June 24, 2015. Retrieved September 20, 2015.
+
+^ "DraftKings Will Pay ESPN $250 Million for Ads Over the Next Two Years". Re/code. July 20, 2015. Retrieved July 21, 2015.
+
+^ "DraftKings raises $300m in frenzied fantasy sports land-grab". BetaBoston (The Boston Globe). Boston Globe Media Partners, LLC. July 26, 2015. Retrieved July 29, 2015.
+
+^ "DraftKings Won't Raise $250 Million From Disney, but Will Still Get ESPN Ad Deal". Re/code. Vox Media. Archived from the original on October 10, 2015. Retrieved October 15, 2015.
+
+^ "ESPN's 'Cover Alerts' are going away, but other gambling talk is not". Washington Post. Retrieved October 16, 2015.
+
+^ a b "Are DraftKings and FanDuel Bombarding Fans With Too Many Ads?". CMO (The Wall Street Journal). September 16, 2015. Retrieved November 10, 2015.
+
+^ "Future of daily fantasy sports hard to predict as industry scrutiny increases". Crain's Cleveland Business. November 10, 2015. Retrieved November 10, 2015.
+
+^ Vallnsky, Jordan. "Everybody hated those DraftKings and FanDuel commercials, data shows". Digiday. Retrieved April 21, 2016. People voiced their annoyance on Twitter, labeling them as "freaking annoying" or mocking the incessant manner they aired.
+
+^ Berzon, Alexandra (November 18, 2016). "DraftKings and FanDuel Agree to Merge". The Wall Street Journal. Retrieved November 18, 2016.
+
+^ "Fox Marks Down $160M Investment In DraftKings By About 60%". Sports Business Journal. February 10, 2016. Retrieved March 29, 2016.
+
+^ "ESPN ends DraftKings deal". Las Vegas Review-Journal. February 10, 2016. Retrieved March 29, 2016.
+
+^ a b c d "Is it gambling? Why fantasy sports sites like DraftKings and FanDuel are illegal in Washington state". The Seattle Times. November 11, 2015. Retrieved November 11, 2015.
+
+^ a b c Irwin, Neil. Daily Fantasy Sports and the Hidden Cost of America’s Weird Gambling Laws. The New York Times. September 24, 2015. Retrieved September 29, 2015.
+
+^ a b c "DraftKings CEO Described Site As A Casino, Called It Betting". Deadspin. Gawker Media. October 18, 2015. Retrieved October 19, 2015.
+
+^ "Commentary: Skill and knowledge are key players in fantasy sports". Times-Union. Albany. December 1, 2015. Retrieved December 2, 2015.(subscription required)
+
+^ a b "Latest Revelation On Federal Fantasy Sports Carve Out: Senator Who Created It Says DFS Should Be Regulated". LegalSportsReport. December 1, 2015. Retrieved December 1, 2015.
+
+^ "I Believe Daily Fantasy Sports Is a Game Of Skill, And Here's The Proof". LegalSportsReport. April 6, 2015. Retrieved December 2, 2015.
+
+^ "AG: DraftKings CEO called daily fantasy sports 'a casino'". Las Vegas Review-Journal. Retrieved October 19, 2015.
+
+^ "Are daily fantasy sports even legal?". The Washington Post. September 21, 2015. Retrieved September 23, 2015.
+
+^ a b c d e "End Sought to Fantasy Sites in New York; Yahoo Is Said to Be Added to Inquiry". The New York Times. November 17, 2015. Retrieved November 18, 2015.
+
+^ a b c d "N.Y. AG declares DFS, Fan Duel illegal gambling sites, not fantasy games". ESPN.com. November 10, 2015. Retrieved November 10, 2015.
+
+^ a b "New York judge denies DraftKings, FanDuel restraining order request". ESPN.com. November 16, 2015. Retrieved November 17, 2015.
+
+^ a b "Biggest issues for daily fantasy after New York ruling". ESPN.com. December 11, 2015. Retrieved December 11, 2015.
+
+^ a b "You Aren't Good Enough to Win Money Playing Daily Fantasy Football". Bloomberg Businessweek. September 10, 2015. Retrieved December 24, 2015.
+
+^ "Is Daily Fantasy Too Addictive for Its Youngest Players?". The Wall Street Journal. November 23, 2015. Retrieved November 24, 2015.
+
+^ a b "DraftKings to create designation for elite players, ban offsite scripts". ESPN.com. January 22, 2016. Retrieved February 1, 2016.
+
+^ Gouker, Dustin (March 22, 2016). "Yahoo Daily Fantasy Sports Rolls Out Changes To 'Make Contests More Transparent'". Legal Sports Report. Retrieved April 6, 2016.
+
+^ a b c d e "How Will the Government Change the Game for Daily Fantasy Sports?". Bloomberg News. October 15, 2015. Retrieved October 20, 2015.
+
+^ a b 31 U.S.C. § 5361
+
+^ "Supreme Court strikes down sports betting law". ESPN.com. Retrieved May 14, 2018.
+
+^ Somin, Ilya (December 4, 2017). "Opinion | Place your bets on federalism — thoughts on today's oral argument in Christie v. NCAA". Washington Post. ISSN 0190-8286. Retrieved May 14, 2018.
+
+^ a b "Does Winning at Fantasy Sports Require Skill or Dumb Luck?". Wired. October 17, 2015. Retrieved November 12, 2015.
+
+^ "Dew-Becker v. Wu, No. 124472 (Supreme Court of Illinois, April 16, 2020)". Retrieved May 24, 2020.
+
+^ Fried, David (May 19, 2020). "Are Fantasy Sports Contests Illegal under State Gambling Laws that prohibit Sports Betting? The Illinois Supreme Court says No and adopts a broad test for Skill Games". Cal Gaming Law. Retrieved May 24, 2020.
+
+^ "Sports and Gaming: Daily Fantasy Sports Contests as Gambling" (PDF). Attorney General of Illinois. Retrieved December 24, 2015.
+
+^ "Illinois AG Lisa Madigan: DFS betting is illegal gambling". ESPN.com. December 23, 2015. Retrieved December 24, 2015.
+
+^ "Daily fantasy sports gaming illegal in Canada, trade group says". TSN.ca. Bell Media. November 11, 2015. Retrieved November 12, 2015.
+
+^ "Colby Cosh: The Senate spent three years pondering a one-line bill, which will likely now expire". National Post. Postmedia Network. Retrieved December 24, 2015.
+
+^ 31 U.S.C. § 5362(1)(E)(ix)
+
+^ Brustein, Joshua (March 11, 2013). "Fantasy Sports and Gambling: Line Is Blurred". The New York Times. Archived from the original on October 22, 2015. Retrieved October 17, 2015.
+
+^ "The true Congressional origin of daily fantasy sports". ESPN.com. October 28, 2015. Retrieved December 2, 2015.
+
+^ 31 U.S.C. § 5364
+
+^ "The Hot New Form Of Fantasy Sports Is Probably Addictive, Potentially Illegal And Completely Unregulated". Think Progress. Retrieved December 2, 2015.
+
+^ "Author of anti-gambling law says "sheer chutzpah" for daily fantasy sites to claim legitimacy". U.S. News & World Report. Associated Press. October 12, 2015. Retrieved October 19, 2015.
+
+^ a b "NY Judge Rules Against DraftKings and FanDuel, Supporting Ban". Fortune.com. Time Inc. Retrieved December 11, 2015.
+
+^ "DraftKings Leaves Door Unlocked for Barred Fantasy Sports Players". The New York Times. November 14, 2015. Retrieved November 18, 2015.
+
+^ a b "Lawsuit accuses DraftKings of flouting bans in 5 states". Boston Globe. Boston Globe Media Partners, LLC. Retrieved December 22, 2015.
+
+^ "Fantasy Sports Site Closes Digital Loophole Ahead of Hearing". The New York Times. November 24, 2015. Retrieved April 6, 2016.
+
+^ "The reality of fantasy sports? It's illegal in Louisiana when stakes are involved". NOLA.com. Retrieved October 20, 2015.
+
+^ "Texas says daily fantasy is gambling and therefore illegal". ESPN.com. January 19, 2016. Retrieved January 30, 2016.
+
+^ Drape, Joe (January 19, 2016). "Texas Attorney General Deems Daily Fantasy Sports Illegal". The New York Times. Retrieved January 30, 2016.
+
+^ "Texas Lottery was in hot pursuit of DraftKings daily fantasy game, records show". Dallas Morning News. Retrieved February 1, 2016.
+
+^ Rosenthal, Brian M. (March 4, 2016). "FanDuel to leave Texas; DraftKings files motion to continue operating". Houston Chronicle. Retrieved April 6, 2016.
+
+^ "A Blow to Daily Fantasy Sports in Hawaii". The Atlantic. January 28, 2016. Retrieved February 1, 2016.
+
+^ Stein, Kelsey (April 5, 2016). "Daily fantasy sports like DraftKings, FanDuel are illegal gambling, Alabama AG says". AL.com. Alabama Media Group (Advance Publications). Retrieved April 6, 2016.
+
+^ "Mass. AG 'reviewing' daily fantasy sports as lawmakers look into lottery expansion". BetaBoston (The Boston Globe). Boston Globe Media Partners, LLC. September 17, 2015. Retrieved October 15, 2015.
+
+^ "Massachusetts will allow daily fantasy sports to operate under new regulations". The Verge. November 19, 2015. Retrieved November 19, 2015.
+
+^ "Virginia becomes first state to formally legalize daily fantasy sports". The Verge. March 7, 2016. Retrieved March 8, 2016.
+
+^ "Bill could sideline season-long fantasy football in Virginia, open up state to online gambling". The Virginian-Pilot. Retrieved March 8, 2016.
+
+^ "Conflict Over Virginia Fantasy Sports Bill Points To Fissure Between DFS And Season-Long Operators". LegalSportsReport. March 2, 2016. Retrieved March 8, 2016.
+
+^ Purdum, David (May 10, 2016). "Congressional subcommittee examining daily fantasy". ESPN.com. Retrieved May 11, 2016.
+
+^ "Daily Fantasy Sports Are Back In Business In New York State". Play NY. August 30, 2016. Retrieved January 16, 2018.
+
+^ "NJ Gets On Fantasy Sports Bandwagon As Christie Signs New Law". NJ Gambling Sites. August 31, 2017. Retrieved January 16, 2018.
+
+^ "Online Gambling Set To Roll In Pennsylvania". www.paonlinecasino.com. October 26, 2017. Retrieved January 16, 2018.
+
+^ "Kasich Signs Fantasy Sports Bill; Ohio Becomes 18th State With Law". Legal Sports Report. December 22, 2017. Retrieved January 2, 2018.
+
+^ a b "New York Supreme Court judge rules against DraftKings, FanDuel". ESPN.com. December 11, 2015. Retrieved December 11, 2015.
+
+^ a b c "Daily Fantasy Sports Hearing Ends Without Decision". Fortune. November 26, 2015. Retrieved November 30, 2015.
+
+^ a b "NY has a legal lottery, says online fantasy sports are an illegal lottery". Ars Technica. November 17, 2015. Retrieved November 17, 2015.
+
+^ "DraftKings, FanDuel lawsuits take daily fantasy battle into critical phase". Sports Illustrated. November 13, 2015. Retrieved November 13, 2015.
+
+^ "DraftKings, FanDuel file lawsuits in New York after cease-and-desist order". USA Today. Gannett. Retrieved November 14, 2015.
+
+^ "New York seeks injunction to shut down DraftKings and FanDuel immediately". The Guardian. November 17, 2015. Retrieved November 18, 2015.
+
+^ "FanDuel & DraftKings Get To Stay In Biz In New York, For Now". Deadline Hollywood. December 11, 2015. Retrieved December 11, 2015.
+
+^ "New York attorney general amends lawsuit against daily fantasy sites". ESPN.com. December 29, 2015. Retrieved January 1, 2016.
+
+^ "New York Daily Fantasy Players in Game for NBA, NHL Playoffs". Bloomberg. January 11, 2016. Retrieved January 14, 2016.
+
+^ "FanDuel & DraftKings See Citigroup "Block" Transactions In NY State". Deadline.com. February 5, 2016. Retrieved February 6, 2016.
+
+^ "Payment Processor to Stop Working With Daily Fantasy Sports Clients". The New York Times. January 29, 2016. Retrieved March 31, 2016.
+
+^ Surowiecki, James (December 11, 2015). "The Hypocritical Legal Campaign against Daily Fantasy Sports". The New Yorker. Retrieved December 16, 2015.
+
+^ "Yahoo stops daily fantasy sports contests in New York". Engadget. AOL. Retrieved March 23, 2016.
+
+^ "Fantasy Sites DraftKings and FanDuel Stop Taking Bets in New York". The New York Times. March 21, 2016. Retrieved March 23, 2016.
+
+^ "DraftKings, FanDuel will stop in NY, but appeal, legislation pending". ESPN.com. March 21, 2016. Retrieved March 23, 2016.
+
+^ "New York State Lawmakers Vote to Legalize Fantasy Sports". The New York Times. June 18, 2016. Retrieved June 18, 2016.
+
+^ a b "N.C.A.A. Distances Itself From Daily Fantasy Websites". The New York Times. October 20, 2015. Retrieved October 21, 2015.
+
+^ "Daily Fantasy Gives the NCAA a Gambling Problem". Bloomberg View. Retrieved October 16, 2015.
+
+^ Tracy, Marc (December 9, 2015). "ESPN and College Football Playoff Agree Not to Air Daily Fantasy Ads". The New York Times. Retrieved December 10, 2015.
+
+^ Purdum, David (March 31, 2016). "DraftKings, FanDuel to stop offering college fantasy games". ESPN. Retrieved March 31, 2016.
+
+^ Bonesteel, Matt (September 29, 2015). "NFL players will make a lot of money as daily-fantasy pitchmen, but not a lot of money playing it". The Washington Post. Retrieved October 15, 2015.
+
+^ Sorbel, Jason (November 23, 2015). "PGA Tour prohibiting players from playing daily fantasy". ESPN.com. Retrieved May 2, 2016.
+
+^ "FanDuel Terms of Service". fanduel.com. Retrieved August 3, 2020.
+
+^ Lollis, Chris (June 30, 2016). "The DFS Effect on Sports Viewership & Popularity". hellorookie.com. Retrieved August 3, 2020.
+
+
+vteFantasy sportsSports
+Auto racing
+Baseball
+Basketball
+Cricket
+Football
+Australian
+Association
+gridiron
+Golf
+Ice hockey
+Politics
+Congress
+Wrestling
+Formats
+Daily fantasy
+Sports stock simulation
+Sports pools
+Prominent companies
+FanDuel
+DraftKings
+Yahoo! Fantasy Sports
+FantasyGuru.com
+ESPN
+RotoWire
+RotoGrinders
+CBSSports.com
+Trade associations
+Fantasy Sports & Gaming Association
+Fantasy Sports Writers Association
+People
+Matthew Berry
+Bill James
+Daniel Okrent
+Nate Ravitz
+Ron Shandler
+Stephania Bell
+John Sickels
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Daily_fantasy_sports&oldid=1194225818"
+Categories: Daily fantasy sportsSports bettingHidden categories: Pages containing links to subscription-only contentAll articles with dead external linksArticles with dead external links from December 2016Articles with permanently dead external linksArticles with short descriptionShort description matches WikidataGood articlesUse mdy dates from March 2016All articles with unsourced statementsArticles with unsourced statements from January 2022
+
+
+
+
+
+
+ This page was last edited on 7 January 2024, at 22:19 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+
+

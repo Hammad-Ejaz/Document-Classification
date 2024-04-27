@@ -1,8 +1,10 @@
 import re
+import nltk
 import requests
 from bs4 import BeautifulSoup
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
+nltk.download('punkt')
 
 def scrape_page_content(url):
     # Send a GET request to the URL
@@ -32,11 +34,14 @@ def preprocess_links(links):
     preprocessed_links = []
     for link in links:
         if(link is not None):
-            # Removing unwanted characters and formatting using regular expressions
-            # preprocessed_link = re.sub(r'[^a-zA-Z\s]', ' ', link)
-            # Replacing multiple whitespaces with a single whitespace
-            # preprocessed_link = re.sub(r'\s+', ' ', preprocessed_link)
-            preprocessed_link = re.sub(r'\s+', ' ', link)
+            not_allowed_pattern = r'[^a-zA-Z0-9\s.,!?]+'
+            
+            preprocessed_link = link.replace('\n', ' ')
+  
+            # Remove non-allowed characters
+            preprocessed_link = re.sub(not_allowed_pattern, '', preprocessed_link)
+            
+            preprocessed_link = re.sub(r'\s+', ' ', preprocessed_link)
             # Removing any leading or trailing whitespace
             preprocessed_link = preprocessed_link.strip()
             # preprocessed_link = ' '.join(word for word in preprocessed_link.split() if len(word) > 1)
@@ -44,17 +49,18 @@ def preprocess_links(links):
     return preprocessed_links
 
 def clean_text(raw_text):
-    # Remove excess newlines and whitespace
-    cleaned_text = re.sub(r'\s+', ' ', raw_text.strip())
+     # Define regex pattern to match only alphabets, numeric values, punctuation marks, and spaces
+    not_allowed_pattern = r'[^a-zA-Z0-9\s.,!?]+'
     
-    # Remove non-alphanumeric characters except space and period
-    #cleaned_text = re.sub(r'[^a-zA-Z\s.]', '', cleaned_text)
+    cleaned_text = raw_text.replace('\n', ' ')
+    # Remove non-allowed characters
+    cleaned_text = re.sub(not_allowed_pattern, '', cleaned_text)
+    
+    # Remove excess whitespace
+    cleaned_text = re.sub(r'\s+', ' ', cleaned_text.strip())
     
     # Convert all alphabets to lowercase
     cleaned_text = cleaned_text.lower()
-    
-    # Remove punctuation
-    #cleaned_text = cleaned_text.translate(str.maketrans('', '', string.punctuation))
     
     # Remove numeric values
     cleaned_text = re.sub(r'\b\d+\b', '', cleaned_text)
@@ -64,12 +70,7 @@ def clean_text(raw_text):
     words = word_tokenize(cleaned_text)
     cleaned_words = [word for word in words if word not in stop_words]
     
-    # Remove duplicate words
-    # unique_words = set(cleaned_words)
-    
-    # Join the words back into a string
-    # cleaned_text = ' '.join(unique_words)
-
+  
     cleaned_text = ' '.join(cleaned_words)
     
     return cleaned_text
@@ -110,10 +111,12 @@ def do_topic_scrapping(topic):
     for i in range(len(links)):
         title, links_text, content = scrape_page_content(links[i])
         if title and links and content:
-            # print("Title:", title)
-            # print("Links:", links_text)
-            # save_to_file(content,  f"raw-food-file-{i}.txt") # save the raw data in file
+            print("Title:", title)
+            print("Links:", links_text)
+            save_to_file(content,  f"{topic}\\RawData\\file-{i + 1}.txt") # save the raw data in file
             cleaned_content = clean_text(content) 
-            save_to_file(cleaned_content, f"{topic}\\file-{i + 1}.txt" , title , links_text) 
+            save_to_file(cleaned_content, f"{topic}\\CleanData\\file-{i + 1}.txt" , title , links_text) 
 
-do_topic_scrapping("food")
+do_topic_scrapping("Food")
+do_topic_scrapping("Sport")
+#do_topic_scrapping("Travel")
