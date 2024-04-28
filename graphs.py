@@ -69,6 +69,14 @@ def create_graph_from_file(filename):
 
         return create_graph(title, links, text)
 
+def create_topic_graphs(topic: str):
+    graphs = [create_graph_from_file(file) for file in glob.glob(f"Scrapping\\{topic}\\file-*.txt")]
+    
+    for graph in graphs:
+        graph.graph.update({'category': topic})
+
+    return graphs
+
 def export_graph(graph: nx.DiGraph):
     lines = []
 
@@ -91,10 +99,6 @@ def export_graphs(graphs: list, filename: str):
         fp.writelines([line + '\n' for line in lines])
 
 def create_topic_graphs_data(topic: str):
-    files = glob.glob(f"Scrapping\\{topic}\\file-*.txt")
+    export_graphs(create_topic_graphs(topic), f"graphdata_{topic}.dat")
 
-    graphs = [create_graph_from_file(file) for file in files]
-
-    export_graphs(graphs, f"graphdata_{topic}.dat")
-
-create_topic_graphs_data("Food")
+# create_topic_graphs_data("Food")
