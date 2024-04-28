@@ -1,6 +1,7 @@
 import random
 import networkx as nx
 from graphs import create_topic_graphs
+from sklearn.metrics import classification_report, confusion_matrix
 
 def mcs(g1, g2):
     matching_graph = nx.Graph()
@@ -54,14 +55,29 @@ def train_test_split(data: list, train_ratio: float = 0.8):
 def run_model(data):
     train, test = train_test_split(data)
 
-    for sample in test:
-        predicted = classify(train, sample)
+    predictions = []
+    originals = list(map(lambda x: x.graph['category'], test))
 
-        print(f"Predicted: {predicted} \t Original: {sample.graph['category']}")
+    for i, sample in enumerate(test):
+        predicted = classify(train, sample)
+        predictions.append(predicted)
+
+        # print(f"Predicted: {predicted} \t Original: {originals[i]}")
+    
+    return predictions, originals
+
+def report_metrics(predictions, originals, model):
+    print(f"{model} Metrics")
+    print("Classfication report:")
+    print(classification_report(originals, predictions))
+    print("Confusion matrix:")
+    print(confusion_matrix(originals, predictions))
 
 if __name__ == '__main__':
     graphs = create_topic_graphs('Food')
     graphs.extend(create_topic_graphs('Sport'))
     graphs.extend(create_topic_graphs('Travel'))
 
-    run_model(graphs)
+    predicted, originals = run_model(graphs)
+
+    report_metrics(predicted, originals, "Graph-based kNN")
