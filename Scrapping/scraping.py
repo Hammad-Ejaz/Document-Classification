@@ -119,4 +119,4 @@ def do_topic_scrapping(topic):
 
 do_topic_scrapping("Food")
 do_topic_scrapping("Sport")
-#do_topic_scrapping("Travel")
+do_topic_scrapping("Travel")
