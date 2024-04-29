@@ -57,7 +57,6 @@ def create_graph(title, links, text):
     # Text Section
     process_section_tokens(graph, remove_stopwords(get_tokens(text, False)), "text")
     
-    # return gv.vis(graph, edge_label_data_source = "section")
     return graph
 
 def create_graph_from_file(filename):

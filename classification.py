@@ -1,5 +1,6 @@
 import random
 import networkx as nx
+import gravis as gv
 from graphs import create_topic_graphs
 from sklearn.metrics import classification_report, confusion_matrix
 
@@ -78,6 +79,9 @@ if __name__ == '__main__':
     graphs.extend(create_topic_graphs('Sport'))
     graphs.extend(create_topic_graphs('Travel'))
 
+
+    graph =  gv.vis(graphs, edge_label_data_source = "section")
+    graph.display()
     predicted, originals = run_model(graphs)
 
     report_metrics(predicted, originals, "Graph-based kNN")
